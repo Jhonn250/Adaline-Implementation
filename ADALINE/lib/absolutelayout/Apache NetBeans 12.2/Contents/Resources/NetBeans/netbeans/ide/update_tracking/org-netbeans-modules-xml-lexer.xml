@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.xml.lexer">
+    <module_version install_time="1605918716899" last="true" origin="installer" specification_version="1.40">
+        <file crc="2479377366" name="config/Modules/org-netbeans-modules-xml-lexer.xml"/>
+        <file crc="3301682746" name="modules/org-netbeans-modules-xml-lexer.jar"/>
+    </module_version>
+</module>

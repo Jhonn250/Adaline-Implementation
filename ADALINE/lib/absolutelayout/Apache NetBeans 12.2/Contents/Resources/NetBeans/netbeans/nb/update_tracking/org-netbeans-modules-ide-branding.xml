@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.ide.branding/1">
+    <module_version install_time="1605918971425" last="true" origin="installer" specification_version="1.42">
+        <file crc="2739271892" name="config/Modules/org-netbeans-modules-ide-branding.xml"/>
+        <file crc="174407293" name="core/locale/core_nb.jar"/>
+        <file crc="1868030062" name="modules/ext/locale/updater_nb.jar"/>
+        <file crc="580263890" name="modules/locale/org-netbeans-core-netigso_nb.jar"/>
+        <file crc="4217346985" name="modules/locale/org-netbeans-core-ui_nb.jar"/>
+        <file crc="3990931589" name="modules/locale/org-netbeans-core-windows_nb.jar"/>
+        <file crc="3845212228" name="modules/locale/org-netbeans-core_nb.jar"/>
+        <file crc="76009126" name="modules/locale/org-netbeans-modules-autoupdate-ui_nb.jar"/>
+        <file crc="2873991456" name="modules/locale/org-netbeans-modules-options-api_nb.jar"/>
+        <file crc="3630548323" name="modules/locale/org-netbeans-modules-uihandler_nb.jar"/>
+        <file crc="2573253352" name="modules/locale/org-netbeans-spi-quicksearch_nb.jar"/>
+        <file crc="1478308559" name="modules/org-netbeans-modules-ide-branding.jar"/>
+        <file crc="1557520548" name="netbeans.icns"/>
+        <file crc="1700504758" name="netbeans.png"/>
+        <file crc="1864553960" name="shortcuts.pdf"/>
+        <file crc="1848947865" name="shortcuts_mac.pdf"/>
+    </module_version>
+</module>
